@@ -25,7 +25,7 @@ https://doi.org/10.48550/arXiv.2503.09855) | [Nat. Commun.](https://doi.org/XXXX
 
 ## Training data
 
-Raw training data of the ML models are deposited on [Zenodo](https://zenodo.org/records/15085645).
+Raw training data of the ML models are deposited on [Zenodo](https://zenodo.org/records/18374917).
 
 
 ## Installation
