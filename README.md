@@ -1,4 +1,4 @@
-# ion-cdft
+# dielectrocapillarity-cdft
 
 
 ## About the code
