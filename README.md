@@ -10,10 +10,10 @@ This repository contains code to train and perform classical density functional 
 Please find the associated paper with the code:
 
 
-***A. T. Bui, S. J. Cox, **"Dielectrocapillarity for exquisite control of fluids"**, Nat. Commun. **XX**, XXXXX (2026)***
+***A. T. Bui, S. J. Cox, **"Dielectrocapillarity for exquisite control of fluids"**, Nat. Commun. (2026), https://doi.org/10.1038/s41467-026-69482-1***
 
 Links to: [arXiv:2503.09855](
-https://doi.org/10.48550/arXiv.2503.09855) | [Nat. Commun.](https://doi.org/XXXX)
+https://doi.org/10.48550/arXiv.2503.09855) | [Nat. Commun.](https://doi.org/10.1038/s41467-026-69482-1)
 
 
 ## Contents
